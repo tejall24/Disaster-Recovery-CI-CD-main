@@ -95,6 +95,6 @@ terraform destroy -auto-approve
 ---
 
 ## 👨‍💻 Author  
-🚀 Developed by **Niraj Bhagvat**  
-📧 Contact: **nirajbhagvat123@gmail.com**  
-🔗 GitHub: **@nirajbhagvat**
+🚀 Developed by **TejalMogal**  
+📧 Contact: **Tejalmogal56@gmail.com**  
+
