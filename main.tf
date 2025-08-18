@@ -1,7 +1,7 @@
 # Provider configuration for AWS
 # provider "aws" {
 #   region = "ap-south-1" # Change as per your AWS region requirement
-# }
+# }}
 
 # ---------------------- VPC Configuration ----------------------
 resource "aws_vpc" "dr_vpc" {
